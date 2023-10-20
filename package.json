@@ -1,0 +1,38 @@
+{
+  "name": "vitepress-social-media-icons",
+  "description": "VitePress-ready SVG strings for social media icons.",
+  "version": "0.0.0",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joaopalmeiro/vitepress-social-media-icons.git"
+  },
+  "author": "João Palmeiro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joaopalmeiro/vitepress-social-media-icons/issues"
+  },
+  "homepage": "https://github.com/joaopalmeiro/vitepress-social-media-icons#readme",
+  "files": [
+    "dist"
+  ],
+  "main": "dist/index.cjs",
+  "module": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "exports": {
+    "import": "./dist/index.js",
+    "require": "./dist/index.cjs"
+  },
+  "scripts": {
+    "build:icons": "jiti build-icons.ts",
+    "build": "tsup",
+    "format": "prettier . --write --log-level debug"
+  },
+  "devDependencies": {
+    "jiti": "1.20.0",
+    "prettier": "3.0.3",
+    "social-media-icons": "0.2.0",
+    "tsup": "7.2.0",
+    "typescript": "5.2.2"
+  }
+}
