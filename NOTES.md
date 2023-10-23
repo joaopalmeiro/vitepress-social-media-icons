@@ -9,3 +9,11 @@
 ```bash
 npm install -D tsup typescript prettier social-media-icons jiti
 ```
+
+```bash
+npm install -D social-media-icons
+```
+
+```bash
+npm install -D @types/node@18.18
+```
