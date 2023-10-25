@@ -7,6 +7,12 @@
 - https://github.com/azat-io/eslint-plugin-perfectionist
 - https://eslint.org/docs/latest/use/configure/configuration-files-new
 - https://github.com/eslint-types/eslint-define-config
+- https://github.com/davidbonnet/astring
+- https://github.com/Quramy/talt
+- https://github.com/samvv/tsastgen
+- https://nabeelvalley.co.za/docs/javascript/typescript-ast/
+- https://github.com/dsherret/ts-ast-viewer + https://ts-ast-viewer.com/
+- https://github.com/microsoft/TypeScript/wiki/Using-the-Compiler-API
 
 ## Commands
 
