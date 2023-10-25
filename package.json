@@ -1,7 +1,7 @@
 {
   "name": "vitepress-social-media-icons",
   "description": "VitePress-ready SVG strings for social media icons.",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "type": "module",
   "repository": {
     "type": "git",
