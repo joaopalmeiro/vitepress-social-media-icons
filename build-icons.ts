@@ -4,7 +4,7 @@
 // https://github.com/unjs/jiti/issues/72
 // https://nodejs.org/api/fs.html#fspromisesreadfilepath-options
 
-import { readdir, readFile } from "node:fs/promises";
+import { readFile, readdir } from "node:fs/promises";
 import { resolve } from "node:path";
 
 const INPUT_PATH: string = resolve(

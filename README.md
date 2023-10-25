@@ -21,6 +21,14 @@ npm install
 ```
 
 ```bash
+npm run lint
+```
+
+```bash
+npm run lint:fix
+```
+
+```bash
 npm run format
 ```
 
